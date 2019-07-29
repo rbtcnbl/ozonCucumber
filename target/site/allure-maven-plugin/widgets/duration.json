@@ -1,0 +1,21 @@
+[ {
+  "uid" : "9e4ec2ea6e6044a7",
+  "name" : "1 - Покупка iphone",
+  "time" : {
+    "start" : 1564383538800,
+    "stop" : 1564383562652,
+    "duration" : 23852
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6af87c567c14cb7b",
+  "name" : "2 - Покупка беспроводных наушников",
+  "time" : {
+    "start" : 1564383564015,
+    "stop" : 1564383591880,
+    "duration" : 27865
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

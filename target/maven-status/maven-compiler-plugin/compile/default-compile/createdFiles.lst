@@ -1,0 +1,14 @@
+ru\pages\MarketPage.class
+ru\pages\CartPage.class
+ru\steps\AuthorizationSteps.class
+ru\steps\CartSteps.class
+ru\steps\ScenarioSteps.class
+ru\steps\MainSteps.class
+ru\pages\MainPage.class
+ru\annotation\FieldName.class
+ru\steps\MarketSteps.class
+ru\pages\BaseObjectPage.class
+ru\steps\BaseSteps.class
+ru\util\TestProperties.class
+ru\util\DriverManager.class
+ru\pages\AuthorizationPage.class

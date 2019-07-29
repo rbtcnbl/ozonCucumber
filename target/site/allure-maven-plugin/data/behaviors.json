@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Покупка в интернет магазине",
+    "children" : [ {
+      "name" : "1 - Покупка iphone",
+      "children" : [ {
+        "name" : "1 - Покупка iphone",
+        "uid" : "9e4ec2ea6e6044a7",
+        "parentUid" : "411b7fa533efa67aa518e5cdb256197c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1564383538800,
+          "stop" : 1564383562652,
+          "duration" : 23852
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "411b7fa533efa67aa518e5cdb256197c"
+    }, {
+      "name" : "2 - Покупка беспроводных наушников",
+      "children" : [ {
+        "name" : "2 - Покупка беспроводных наушников",
+        "uid" : "6af87c567c14cb7b",
+        "parentUid" : "e40cc0760d23c6bac6a60d0d78a9a951",
+        "status" : "broken",
+        "time" : {
+          "start" : 1564383564015,
+          "stop" : 1564383591880,
+          "duration" : 27865
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e40cc0760d23c6bac6a60d0d78a9a951"
+    } ],
+    "uid" : "ea5035ef9973b7ac0dabb168d6f3a74f"
+  } ]
+}
